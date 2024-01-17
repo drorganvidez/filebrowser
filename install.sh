@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Solicita el valor del subdominio y almacénalo en la variable "server"
 read -p "Ingrese el nombre del subdominio X para '/filebrowser/X': " server
 read -p "Ingrese el nombre de usuario del sistema donde se está instalando File Browser: " user
 read -p "Ingrese un usuario administrador de File Browser: " filebrowser_user
